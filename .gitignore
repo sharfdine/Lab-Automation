@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+secrets.toml
+*.db
+*.db-wal
+*.db-shm
+data_storage/
+__pycache__/
+*.pyc
